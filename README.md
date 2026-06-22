@@ -1,4 +1,4 @@
-# Project 2 — Market-Basket Analysis on the IMDb Top 1000 Dataset
+# Market-Basket Analysis on the IMDb Top 1000 Dataset
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bruskez/market-basket-analysis-imdb/blob/main/market_basket_analysis.ipynb)
 
